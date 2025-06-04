@@ -12,6 +12,7 @@ Python script to turn MP3 into MIDI
  - numpy
  - scipy
  - mido
+ - numba
 # Installation
 
     git clone https://github.com/cylin577/M2M_MP3_to_MIDI

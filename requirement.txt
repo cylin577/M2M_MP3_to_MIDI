@@ -2,3 +2,4 @@ mido
 pydub
 numpy
 scipy
+numba

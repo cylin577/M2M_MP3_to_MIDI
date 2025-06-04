@@ -5,7 +5,7 @@ Python script to turn MP3 into MIDI
 # Usage
 
 	python main.py input.mp3 -o output.mid
-# Requirement
+# Requirements
 
  - ffmpeg
  - pydub

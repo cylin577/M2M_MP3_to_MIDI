@@ -3,3 +3,4 @@ pydub
 numpy
 scipy
 numba
+audioop-lts

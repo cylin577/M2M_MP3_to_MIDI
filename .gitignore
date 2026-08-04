@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# uv
+uv.lock
+
+# Output / generated
+out.mid
+*.mid
+*.mp3
+sample/*.mid
+best_params.json
+
+# Tuner temp
+a2m_tune_*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
